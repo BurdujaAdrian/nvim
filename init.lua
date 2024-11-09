@@ -1,6 +1,3 @@
-vim.o.shell = 'C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe'
-vim.opt.shellcmdflag = '-nologo -noprofile -ExecutionPolicy RemoteSigned -command'
-vim.opt.shellxquote = ''
 -- Set <space> as the leader key
 -- See `:help mapleader`
 --  NOTE: Must happen before plugins are loaded (otherwise wrong leader will be used)
